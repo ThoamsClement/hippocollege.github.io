@@ -10,6 +10,10 @@
 1. Numbered
 2. List
 
+### Contact | 聯繫我們
+- 我們官方網站 team20.hippoproject.one
+- E-mail | hippo@mail.hippoproject.one
+- This web is hosting by Github | 2022 Team 20 in Department of Public Health,Chung Shan Medical University All Rights Reserved
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -28,7 +32,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-### Contact | 聯繫我們
-- 我們官方網站 team20.hippoproject.one
-- E-mail | hippo@mail.hippoproject.one
-- This web is hosting by Github | 2022 Team 20 in Department of Public Health,Chung Shan Medical University All Rights Reserved
+
