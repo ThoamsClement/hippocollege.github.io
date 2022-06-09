@@ -1,16 +1,9 @@
 ## 歡迎來第20組的網站
 
-### 上面的 "View Github"可以帶您過去我們的檔案資料夾
+### 上面的 "View on Github"可以帶您過去我們的檔案資料夾
 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-[Link](url) and ![Image](src)
 
 
 
