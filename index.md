@@ -4,16 +4,9 @@ You can use the [editor on GitHub](https://github.com/ThoamsClement/hippocollege
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 上面的 "View Github"可以帶您過去我們的檔案資料夾
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-<center><embed src="/pdf/mou.pdf" width="850" height="600"></center>
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
