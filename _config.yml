@@ -1,3 +1,16 @@
 remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
+title: Team 20 | OFFICIAL WEB
+tagline: 往右側滑動或是直接點擊下方連結
+logo: /assets/logo.png
+menu:
+- title: Poster
+  url: /poster/
+- title: Reference Data
+  url: /ref_data/
+- title: About us 
+  url: /about/
+  
+ copyright: 2022 © Team 20 in Department of Public Health , Chung Shan Medical University
+ 
